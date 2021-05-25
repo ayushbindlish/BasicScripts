@@ -5,3 +5,6 @@ Mouse Jiggler is used to "fake" mouse input. It can be used to avoid things that
 
 2. clear_cache.sh
 Script to clear cache on linux system
+
+3. free_log.sh
+Script to store free command output to a file 
